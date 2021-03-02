@@ -1,0 +1,11 @@
+{% include head.html %}
+
+{% for entry in site.data.blog %}
+{{ entry.content }}<br>
+<b>Publised on</b>: {{ entry.date}}
+{% if forloop.index != forloop.length %}
+<hr/>
+{% endif %}
+{% endfor %}
+
+{% include footer.html %}
