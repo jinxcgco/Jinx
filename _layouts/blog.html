@@ -1,6 +1,6 @@
 {% include head.html %}
 
-{% for entry in site.data.blog %}
+{% for entry in site.data.blog reversed %}
 {{ entry.content }}<br>
 <b>Publised on</b>: {{ entry.date}}
 {% if forloop.index != forloop.length %}
