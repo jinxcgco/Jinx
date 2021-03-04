@@ -1,6 +1,6 @@
 - content: >-
     I started working on this page a few hours ago, I have a lot of expectations for this, I want to write about a lot of things.
-  date: 2021-02-03 23:31 UTC
+  date: 2021-03-02 23:31 UTC
 
 - content: >-
     I've been using XFCE for a long time, and today, I finally installed dwm again, I love that window manager. I also installed XDM, I love how everything looks now.
@@ -11,3 +11,11 @@
 
     I also added a very simple contact page [here](/contact), if you want to talk with me.
   date: 2021-03-03 21:53 UTC
+
+- content: >-
+    I have made a lot of progress in the paths system of the non-free LibreAcademia (yes, the main instance of LibreAcademia is not free-compatible and I hate it).
+
+    Go and check it out [here](https://libreacademia.gq/paths).
+
+    In this website (in the future) will be a completely free-compatible and minimalistic instance of that site.
+  date: 2021-03-04 21:48 UTC
