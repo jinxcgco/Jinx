@@ -7,26 +7,33 @@
   date: 2021-03-03 16:28 UTC
 
 - content: >-
-    Today I added two lessons to the hacking course in LibreAcademia and hope I can add two more lessons to the C Course today, lately I haven't feel that productive.<br>
+    Today I added two lessons to the hacking course in LibreAcademia and hope I can add two more lessons to the C Course today, lately I haven't feel that productive.<br><br>
 
     I also added a very simple contact page [here](/contact), if you want to talk with me.
   date: 2021-03-03 21:53 UTC
 
 - content: >-
-    I have made a lot of progress in the paths system of the non-free LibreAcademia (yes, the main instance of LibreAcademia is not free-compatible and I hate it).<br>
+    I have made a lot of progress in the paths system of the non-free LibreAcademia (yes, the main instance of LibreAcademia is not free-compatible and I hate it).<br><br>
 
-    Go and check it out [here](https://libreacademia.gq/paths).<br>
+    Go and check it out [here](https://libreacademia.gq/paths).<br><br>
 
     In this website (in the future) will be a completely free-compatible and minimalistic instance of that site.
   date: 2021-03-04 21:48 UTC
 
 - content: >-
-    I will start working in two projects now, [LibreAcademia](https://libreacademia.gq) and **LibreSuite**.<br>
+    I will start working in two projects now, [LibreAcademia](https://libreacademia.gq) and **LibreSuite**.<br><br>
 
     So far, the LibreSuite development hasn't started yet, I am just thinking how I will do it, I will draw their designs and will start looking for resources first.
-    I hope that at the end of this day, I have, at least, started with a very basic thing.<br>
+    I hope that at the end of this day, I have, at least, started with a very basic thing.<br><br>
 
-    You will be able to see the LibreSuite's source code, once there is something, [here](https://github.com/JinxCGCO/LibreSuite)<br>
+    You will be able to see the LibreSuite's source code, once there is something, [here](https://github.com/JinxCGCO/LibreSuite)<br><br>
 
     **Note**: I will stop using GitHub soon, I will move everything to CodeBerg or NotABug, probably.
   date: 2021-03-06 18:34 UTC
+
+- content: >-
+    Just started working on Doodle (the first thing on LibreSuite), it is literally just a "template" so far, there's no logic nor backend in it, but at least
+    it will set an initial point so I can keep working on it from there.<br><br>
+
+    I also fixed an error with my mail on all my repositories, I think I cannot fix previous commits, but welp... Now it is fixed.
+  date: 2021-03-07 01:14 UTC
